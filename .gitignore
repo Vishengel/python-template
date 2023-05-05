@@ -2,3 +2,5 @@
 *.env
 */__pycache__
 docker-compose.yml
+/logs/
+*.pyc
