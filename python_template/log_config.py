@@ -30,6 +30,5 @@ LOG_CONFIG = {
         "handlers": ["std_out_handler", "json_lines_handler"],
         "level": "DEBUG",
     },
-    "loggers": {
-    },
+    "loggers": {},
 }
